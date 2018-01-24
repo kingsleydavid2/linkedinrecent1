@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="57282" started-at="2018-01-24T11:57:34Z" finished-at="2018-01-24T11:58:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="57282" started-at="2018-01-24T11:57:34Z" finished-at="2018-01-24T11:58:31Z">
+      <class name="com.linkedin.page.linkedinlogin">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.linkedin.page.linkedinlogin@44c8afef]" name="login" duration-ms="57189" started-at="2018-01-24T17:27:34Z" finished-at="2018-01-24T17:28:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.linkedin.page.linkedinlogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
